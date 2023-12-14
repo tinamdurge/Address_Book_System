@@ -1,0 +1,11 @@
+# ignore .class files
+*.class
+
+# ignore vscode folder
+.vscode
+
+# ignore readme file
+README.md
+
+# ignore the file with passwords
+Details.java
